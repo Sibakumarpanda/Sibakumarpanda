@@ -7,7 +7,7 @@
 
 <h3 align="center">A Passionate DV Engineer from India</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sv-uvm-enthusiast&label=Profileviews&color=brightgreen&style=flat" alt="sv-uvm-enthusiast" width="150" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sibakumarpanda&label=Profileviews&color=brightgreen&style=flat" alt="Sibakumarpanda" width="150" /> </p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Your GIF" width="300">
