@@ -63,11 +63,10 @@
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 
 </p>
-
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sibakumarpanda&show_icons=true&locale=en&layout=compact" alt="Sibakumarpanda" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sibakumarpanda&show_icons=true&locale=en" alt="Sibakumarpanda" /></p>
+-->
+<p> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sibakumarpanda&show_icons=true&locale=en" alt="Sibakumarpanda" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sibakumarpanda&" alt="Sibakumarpanda" /></p>
 
 <!-- These languages and tools need to be updated
