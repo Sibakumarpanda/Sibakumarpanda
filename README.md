@@ -36,14 +36,14 @@
 <h3 align="left">Languages,Tools,Protocols:</h3>
 <p align="left"> 
 
-<img align="left" alt="Verilog" height="26px" src="https://img.shields.io/badge/%20Verilog-%20-green" />
-<img align="left" alt="System Verilog" height="26px" src="https://img.shields.io/badge/%20System Verilog-%20-green" />
-<img align="left" alt="UVM" height="26px" src="https://img.shields.io/badge/%20UVM-%20-green" />
-<img align="left" alt="QuestaSim" height="26px" src="https://img.shields.io/badge/%20QuestaSim-%20-orange" />
-<img align="left" alt="Xcelium" height="26px" src="https://img.shields.io/badge/%20Xcelium-%20-orange" />
-<img align="left" alt="VCS/Verdi" height="26px" src="https://img.shields.io/badge/%20VCS/Verdi-%20-orange" />
-<img align="left" alt="AXI" height="26px" src="https://img.shields.io/badge/%20AXI-%20-blue" />
-<img align="left" alt="PCIE" height="26px" src="https://img.shields.io/badge/%20PCIE-%20-blue" />
+<img align="left" alt="Verilog" height="26px" src="https://img.shields.io/badge/%20Verilog-%20-deeppink" />
+<img align="left" alt="System Verilog" height="26px" src="https://img.shields.io/badge/%20System Verilog-%20-deeppink" />
+<img align="left" alt="UVM" height="26px" src="https://img.shields.io/badge/%20UVM-%20-deeppink" />
+<img align="left" alt="QuestaSim" height="26px" src="https://img.shields.io/badge/%20QuestaSim-%20-limegreen" />
+<img align="left" alt="Xcelium" height="26px" src="https://img.shields.io/badge/%20Xcelium-%20-limegreen" />
+<img align="left" alt="VCS/Verdi" height="26px" src="https://img.shields.io/badge/%20VCS/Verdi-%20-limegreen" />
+<img align="left" alt="AXI" height="26px" src="https://img.shields.io/badge/%20AXI-%20-orangered" />
+<img align="left" alt="PCIE" height="26px" src="https://img.shields.io/badge/%20PCIE-%20-orangered" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
