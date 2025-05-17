@@ -27,8 +27,10 @@
   
 [![Sibakumarpanda](https://github-readme-activity-graph.vercel.app/graph?username=Sibakumarpanda&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="left">Connect with me:</h3>
+![Sibakumarpanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sibakumarpanda&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibakumarpanda&layout=compact&hide_border=true&count_private=true)
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/siba-kumar-panda-8a3194102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siba-kumar-panda-8a3194102/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sibakumarwritesforjaga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sibakumarwritesforjaga/" height="30" width="40" /></a> 
@@ -78,9 +80,7 @@
 <br />
 <br />
 
-![Sibakumarpanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sibakumarpanda&hide_border=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibakumarpanda&layout=compact&hide_border=true&count_private=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sibakumarpanda&" alt="Sibakumarpanda" /></p>
 
