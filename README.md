@@ -69,6 +69,7 @@
 <h3 align="left">Verification Skills:</h3>
 <p align="left"> 
 <img align="left" alt="Spec Understanding" height="26px" src="https://img.shields.io/badge/%20Spec Understanding-%20-darkorange" />
+<img align="left" alt="Test Bench" height="26px" src="https://img.shields.io/badge/%20Test Bench-%20-darkorange" />
 <img align="left" alt="Test Plan" height="26px" src="https://img.shields.io/badge/%20Test Plan-%20-darkorange" /> 
 <img align="left" alt="Constraint Random" height="26px" src="https://img.shields.io/badge/%20Constraint Random-%20-darkorange" />  
 <img align="left" alt="Coverage" height="26px" src="https://img.shields.io/badge/%20Coverage-%20-darkorange" />  
