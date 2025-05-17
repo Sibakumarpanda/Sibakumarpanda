@@ -33,7 +33,7 @@
 <a href="https://www.linkedin.com/in/siba-kumar-panda-8a3194102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siba-kumar-panda-8a3194102/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sibakumarwritesforjaga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sibakumarwritesforjaga/" height="30" width="40" /></a> 
 
-<h3 align="left">Languages,Tools,Protocols:</h3>
+<h3 align="left">Languages,Tools:</h3>
 <p align="left"> 
 
 <img align="left" alt="Verilog" height="26px" src="https://img.shields.io/badge/%20Verilog-%20-deeppink" />
@@ -42,8 +42,6 @@
 <img align="left" alt="QuestaSim" height="26px" src="https://img.shields.io/badge/%20QuestaSim-%20-limegreen" />
 <img align="left" alt="Xcelium" height="26px" src="https://img.shields.io/badge/%20Xcelium-%20-limegreen" />
 <img align="left" alt="VCS/Verdi" height="26px" src="https://img.shields.io/badge/%20VCS/Verdi-%20-limegreen" />
-<img align="left" alt="AXI" height="26px" src="https://img.shields.io/badge/%20AXI-%20-orangered" />
-<img align="left" alt="PCIE" height="26px" src="https://img.shields.io/badge/%20PCIE-%20-orangered" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
@@ -53,6 +51,14 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://api.iconify.design/logos-perl.svg" />
+<br />
+<br />
+
+<h3 align="left">Protocols:</h3>
+<p align="left"> 
+<img align="left" alt="APB" height="26px" src="https://img.shields.io/badge/%20APB-%20-orangered" />
+<img align="left" alt="AXI" height="26px" src="https://img.shields.io/badge/%20AXI-%20-orangered" />  
+<img align="left" alt="PCIE" height="26px" src="https://img.shields.io/badge/%20PCIE-%20-orangered" />
 <br />
 <br />
 
