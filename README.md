@@ -37,12 +37,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibakumarpanda&layout=compact&hide_border=true&count_private=true)
 
 <h3 align="left">
-  Connect with me:
+  Technical Certifications Earned:
 </h3>
+<!--START_SECTION:badges-->
 
-<p align="left">
-<a href="https://www.linkedin.com/in/siba-kumar-panda-8a3194102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siba-kumar-panda-8a3194102/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sibakumarwritesforjaga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sibakumarwritesforjaga/" height="30" width="40" /></a> 
+[![Essential SystemVerilog for UVM](https://images.credly.com/size/100x100/images/e5d83252-20b1-4515-98df-5b7d0c46ab35/image.png)](https://www.credly.com/badges/c95c148f-fd12-4ced-bffb-18ef7717a88c "Essential SystemVerilog for UVM")
+
+<!--END_SECTION:badges-->
 
 <h3 align="left">
   Languages:
@@ -98,12 +99,11 @@
 <br />
 
 <h3 align="left">
-  Certification Badges Earned:
+  Connect with me:
 </h3>
-<!--START_SECTION:badges-->
-
-[![Essential SystemVerilog for UVM](https://images.credly.com/size/100x100/images/e5d83252-20b1-4515-98df-5b7d0c46ab35/image.png)](https://www.credly.com/badges/c95c148f-fd12-4ced-bffb-18ef7717a88c "Essential SystemVerilog for UVM")
-
-<!--END_SECTION:badges-->
+<p align="left">
+<a href="https://www.linkedin.com/in/siba-kumar-panda-8a3194102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siba-kumar-panda-8a3194102/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sibakumarwritesforjaga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sibakumarwritesforjaga/" height="30" width="40" />
+</a> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sibakumarpanda&" alt="Sibakumarpanda" /></p>
