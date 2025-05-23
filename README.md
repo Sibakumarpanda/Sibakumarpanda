@@ -41,9 +41,14 @@
 </h3>
 <!--START_SECTION:badges-->
 
-[![Essential SystemVerilog for UVM](https://images.credly.com/size/100x100/images/e5d83252-20b1-4515-98df-5b7d0c46ab35/image.png)](https://www.credly.com/badges/c95c148f-fd12-4ced-bffb-18ef7717a88c "Essential SystemVerilog for UVM")
-
-[![SystemVerilog Assertions](https://images.credly.com/size/100x100/images/7b99801b-c3d8-4e7d-8a0d-7f9449bb8c6a/image.png)](https://www.credly.com/badges/5fc15a79-00b9-4cf6-a6b2-b8aa8d771eec "SystemVerilog Assertions")
+<div style="display: flex; align-items: center;">
+  <a href="https://www.credly.com/badges/c95c148f-fd12-4ced-bffb-18ef7717a88c" title="Essential SystemVerilog for UVM">
+    <img src="https://images.credly.com/size/100x100/images/e5d83252-20b1-4515-98df-5b7d0c46ab35/image.png" alt="Essential SystemVerilog for UVM" style="margin-right: 10px;">
+  </a>
+  <a href="https://www.credly.com/badges/5fc15a79-00b9-4cf6-a6b2-b8aa8d771eec" title="SystemVerilog Assertions">
+    <img src="https://images.credly.com/size/100x100/images/7b99801b-c3d8-4e7d-8a0d-7f9449bb8c6a/image.png" alt="SystemVerilog Assertions">
+  </a>
+</div>
 
 <!--END_SECTION:badges-->
 
