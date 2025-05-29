@@ -38,10 +38,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibakumarpanda&layout=compact&hide_border=true&count_private=true)
 -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sibakumarpanda&show_icons=true&theme=tokyonight" height="130"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sibakumarpanda&theme=tokyonight" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sibakumarpanda&show_icons=true&theme=tokyonight" height="140"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sibakumarpanda&theme=tokyonight" height="140"/>
   <!-- To improve language accuracy, exclude irrelevant repos here -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibakumarpanda&layout=compact&theme=tokyonight&exclude_repo=old-repo1,old-repo2" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibakumarpanda&layout=compact&theme=tokyonight&exclude_repo=old-repo1,old-repo2" height="140"/>
 </p>
 
 <h3 align="left">
