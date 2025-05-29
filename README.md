@@ -31,10 +31,18 @@
 - 📫 **Important:** Interested Learners wish to work/learn on below repo ,can reach personally on above Email. For the time beings these are in Private mode.
 -     1. UVM_RAL_Model 2. UVM_Scoreboard_develop_Funda 3.Reactive_Agent_Development 4.Synchronous_FIFO_Verification_with_UVM  5.Various_Protocol_Specification_Documents 6. Singleport_RAM_verification_with_UVM  7.APB_verification_with_UVM  8.RISC_V_Documents 9.AXI_verification_with_UVM (VIP) 10. Register_Verification_UVM_APB_RAL_Example1 ,Example2, Example3
   
-[![Sibakumarpanda](https://github-readme-activity-graph.vercel.app/graph?username=Sibakumarpanda&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sibakumarpanda](https://github-readme-activity-graph.vercel.app/graph?username=Sibakumarpanda&theme=react)](https://github.com/Sibakumarpanda/github-readme-activity-graph)
 
+<!--
 ![Sibakumarpanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sibakumarpanda&hide_border=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibakumarpanda&layout=compact&hide_border=true&count_private=true)
+-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sibakumarpanda&show_icons=true&theme=tokyonight" height="140"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sibakumarpanda&theme=tokyonight" height="140"/>
+  <!-- To improve language accuracy, exclude irrelevant repos here -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibakumarpanda&layout=compact&theme=tokyonight&exclude_repo=old-repo1,old-repo2" height="140"/>
+</p>
 
 <h3 align="left">
   Technical Certifications Earned:
@@ -112,5 +120,6 @@
 <a href="https://www.linkedin.com/in/siba-kumar-panda-8a3194102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siba-kumar-panda-8a3194102/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/sibakumarwritesforjaga/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sibakumarwritesforjaga/" height="30" width="40" />
 </a> 
-
+<!--
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sibakumarpanda&" alt="Sibakumarpanda" /></p>
+-->
