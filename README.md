@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on **VLSI Design & Verification domain**
 - 🌱 I’m currently learning lots of stuff related to advanced verification
-- 👯 I’m looking to collaborate on research in **VLSI computing , VLSI architecture ,VLSI verification**
+- 👯 I’m looking to collaborate on research in **VLSI Verification, VLSI Architecture ,VLSI Computing**
 - 🤔 Enjoy in coding with : **Verilog , SV , UVM**
 - 💬 **Goal :** Learn & contribute more to open source projects
 - 📫 **How to reach me:** Just drop an Email: **panda.sibakumar08@gmail.com**
