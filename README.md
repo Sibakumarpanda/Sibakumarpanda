@@ -22,7 +22,8 @@
 
 - 🔭 I’m currently working on **VLSI Design & Verification domain**
 - 🌱 I’m currently learning lots of stuff related to advanced verification
-- 👯 I’m looking to collaborate on research in **VLSI Verification, VLSI Architecture ,VLSI Computing,High Speed Digital Design ,High Speed Interconnect, Arithmetic Circuit Design etc**
+- 👯 Looking for Collaborative research in **VLSI Verification, VLSI Architecture ,VLSI Computing,High Speed Digital Design ,High Speed Interconnect, Arithmetic Circuit Design etc**
+- 👯 **My Google Scholar :** https://scholar.google.com/citations?user=rttBv7MAAAAJ&hl=en 
 - 🤔 Enjoy in coding with : **Verilog , SV , UVM**
 - 💬 **Goal :** Learn & contribute more to open source projects
 - 📫 **How to reach me:** Just drop an Email: **panda.sibakumar08@gmail.com**
