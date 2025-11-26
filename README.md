@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning lots of stuff related to advanced verification
 - 👯 Looking for Collaborative research in **VLSI Verification, VLSI Architecture ,VLSI Computing,High Speed Digital Design ,High Speed Interconnect, Arithmetic Circuit Design etc**
 - 👯 **My Google Scholar :** https://scholar.google.com/citations?user=rttBv7MAAAAJ&hl=en 
-- 🤔 Enjoy in coding with : **Verilog , SV , UVM**
+- 🤔 Enjoy in coding with : **Verilog , SV , UVM, Python**
 - 💬 **Goal :** Learn & contribute more to open source projects
 - 📫 **How to reach me:** Just drop an Email: **panda.sibakumar08@gmail.com**
 - 😄 **Pronouns:** He/Him
