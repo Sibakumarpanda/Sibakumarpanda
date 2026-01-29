@@ -62,16 +62,16 @@
 <div style="display: flex; align-items: center;">
   
   <a href="https://www.credly.com/badges/c95c148f-fd12-4ced-bffb-18ef7717a88c" title="Essential SystemVerilog for UVM">
-    <img src="https://images.credly.com/size/100x100/images/e5d83252-20b1-4515-98df-5b7d0c46ab35/image.png" alt="Essential SystemVerilog for UVM" style="margin-right: 10px;">
+    <img src="https://images.credly.com/size/150x150/images/e5d83252-20b1-4515-98df-5b7d0c46ab35/image.png" alt="Essential SystemVerilog for UVM" style="margin-right: 10px;">
   </a>
   <a href="https://www.credly.com/badges/5fc15a79-00b9-4cf6-a6b2-b8aa8d771eec" title="SystemVerilog Assertions">
-    <img src="https://images.credly.com/size/100x100/images/7b99801b-c3d8-4e7d-8a0d-7f9449bb8c6a/image.png" alt="SystemVerilog Assertions">
+    <img src="https://images.credly.com/size/150x150/images/7b99801b-c3d8-4e7d-8a0d-7f9449bb8c6a/image.png" alt="SystemVerilog Assertions">
   </a>
   <a href="https://www.credly.com/badges/1d1a7a99-d98a-4ac7-90f9-59f5e206b434" title="SystemVerilog for Design and Verification v21.10 Exam">
-    <img src="https://images.credly.com/size/100x100/images/04d457c8-c5a3-4323-bd2a-cd93a1cd8c6f/image.png" alt="SystemVerilog for Design and Verification v21.10 Exam">
+    <img src="https://images.credly.com/size/150x150/images/04d457c8-c5a3-4323-bd2a-cd93a1cd8c6f/image.png" alt="SystemVerilog for Design and Verification v21.10 Exam">
   </a>
   <a href="https://www.credly.com/badges/a8e4ac36-bfbf-4eff-95ce-43df9c085cf1" title="SystemVerilog Advanced Register Verification Using UVM v2103 Exam">
-    <img src="https://images.credly.com/size/100x100/images/59ef69d3-1e32-41e0-a1fd-7e2de1937018/image.png" alt="SystemVerilog Advanced Register Verification Using UVM v2103 Exam">
+    <img src="https://images.credly.com/size/150x150/images/59ef69d3-1e32-41e0-a1fd-7e2de1937018/image.png" alt="SystemVerilog Advanced Register Verification Using UVM v2103 Exam">
   </a>
  
 </div>
