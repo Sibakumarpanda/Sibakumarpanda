@@ -70,6 +70,9 @@
   <a href="https://www.credly.com/badges/1d1a7a99-d98a-4ac7-90f9-59f5e206b434" title="SystemVerilog for Design and Verification v21.10 Exam">
     <img src="https://images.credly.com/size/100x100/images/04d457c8-c5a3-4323-bd2a-cd93a1cd8c6f/image.png" alt="SystemVerilog for Design and Verification v21.10 Exam">
   </a>
+  <a href="https://www.credly.com/badges/a8e4ac36-bfbf-4eff-95ce-43df9c085cf1" title="SystemVerilog Advanced Register Verification Using UVM v2103 Exam">
+    <img src="https://images.credly.com/size/100x100/images/04d457c8-c5a3-4323-bd2a-cd93a1cd8c6f/image.png" alt="SystemVerilog Advanced Register Verification Using UVM v2103 Exam">
+  </a>
  
 </div>
 
